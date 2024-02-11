@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(34, 34, 78);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
